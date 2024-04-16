@@ -1,6 +1,6 @@
 # Heart_Attack_Analysis
 
-#Obejective
+# Obejective
 
 The main objective of the Project “Heart Attack Analysis” is to predicts the heart attack chances by feeding the past data with the help of Jupyter Notebook.
 
@@ -8,7 +8,7 @@ Predicting heart attacks before they happen is considered one of the most import
 
 Analyzing heart attacks can provide insights into the prevalence of the condition, as well as  the demographics and risk factors associated with it. This information can be used to develop targeted prevention and treatment strategies, as well as to inform public health policies aimed at reducing the incidence of heart attacks.
 
-#System Analysis
+# System Analysis
 
 Tools and Technologies used:
 1. Python.
